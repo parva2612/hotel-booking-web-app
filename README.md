@@ -26,7 +26,7 @@ To use the hotel booking app, follow the steps below:
 1. Clone the repository to your local machine using the command:
 `git clone https://github.com/parva2612/Hotel_Booking.git`
 
-2. Install the required dependencies using the command:
+2. Install the required dependencies using the command (in client and backend folders):
 `npm install`
 
 3. Start the app using the command in client andbackend folder:
